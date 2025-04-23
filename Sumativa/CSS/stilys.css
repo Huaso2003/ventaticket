@@ -1,0 +1,10 @@
+.contenedor.seccion{
+max-width: 1200px;
+margin: auto;
+padding: 20cm 1cm;
+}
+
+body{
+background-color: white;
+color: #1a1a1a;;
+}
