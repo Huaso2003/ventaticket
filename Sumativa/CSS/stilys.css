@@ -5,6 +5,8 @@ padding: 20cm 1cm;
 }
 
 body{
+    margin: 0;
+    font-family: •	sans-serif ;
 background-color: white;
 color: #1a1a1a;
 }
@@ -24,14 +26,14 @@ flex-wrap: wrap;
 
 .navbar{
 display: flex;
-justify-content: center;
+justify-content: flex-end ;
 flex: 1;
 }
 
 .nav{
 list-style: none;
 display: flex;
-gap: 1em;
+gap: 1em ;
 padding: 0;
 margin: 0;
 }
@@ -50,7 +52,10 @@ background-color: #e10073
 }
 
 .hero{
+    background: linear-gradient(to right, #1a1a1a, #4a4a4a) ;
+    color: white;
     text-align: center;
-    padding: 2em 0;
+    padding: 4em 1em;
+    
 }
 
